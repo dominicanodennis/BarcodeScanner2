@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Barcode Scanner</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hallo Welt</string>
+    <string name="barcode_string">Barcode:</string>
+    <string name="typ_string">Typ:</string>
+    <string name="button_string">Scanne</string>
+</resources>
